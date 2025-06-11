@@ -213,7 +213,6 @@
             <text variable="medium"/>
           </if>
           <else-if variable="URL DOI" match="any">
-            <text value="OL"/>
           </else-if>
         </choose>
       </if>
